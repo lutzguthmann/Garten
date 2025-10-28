@@ -1,0 +1,9 @@
+{
+  "name": "Pflanzen-Helfer",
+  "description": "Eine App, die mit Hilfe von KI Ratschläge zum richtigen Zeitpunkt für den Pflanzenschnitt gibt.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
